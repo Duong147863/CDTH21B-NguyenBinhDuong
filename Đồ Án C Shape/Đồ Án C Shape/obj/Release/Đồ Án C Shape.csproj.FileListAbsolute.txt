@@ -1,0 +1,11 @@
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Release\Đồ Án C Shape.exe.config
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Release\Đồ Án C Shape.exe
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Release\Đồ Án C Shape.pdb
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Release\Đồ Án C Shape.csproj.AssemblyReference.cache
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Release\Đồ Án C Shape.csproj.SuggestedBindingRedirects.cache
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Release\Đồ_Án_C_Shape.frmTaiKhoanDangNhap.resources
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Release\Đồ_Án_C_Shape.Properties.Resources.resources
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Release\Đồ Án C Shape.csproj.GenerateResource.cache
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Release\Đồ Án C Shape.csproj.CoreCompileInputs.cache
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Release\Đồ Án C Shape.exe
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Release\Đồ Án C Shape.pdb
