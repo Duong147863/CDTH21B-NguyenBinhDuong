@@ -1,0 +1,34 @@
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\Đồ Án C Shape.exe.config
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\Đồ Án C Shape.exe
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\Đồ Án C Shape.pdb
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ Án C Shape.csproj.AssemblyReference.cache
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ Án C Shape.csproj.SuggestedBindingRedirects.cache
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ_Án_C_Shape.frmTaiKhoanDangNhap.resources
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ_Án_C_Shape.Properties.Resources.resources
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ Án C Shape.csproj.GenerateResource.cache
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ Án C Shape.csproj.CoreCompileInputs.cache
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ Án C Shape.exe
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ Án C Shape.pdb
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Data.v22.2.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Data.v22.2.xml
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ Án C Shape.csproj.CopyComplete
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ_Án_C_Shape.frmDangKi.resources
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ Án C Shape.exe.licenses
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\obj\Debug\Đồ_Án_C_Shape.frmQuenMatKhau.resources
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\11.Lập trình di động\Đồ Án C Shape\Đồ Án C Shape\bin\Debug\DevExpress.XtraBars.v22.2.xml
