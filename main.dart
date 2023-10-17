@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:shoe_ocean/profileScreen.dart';
+import 'package:flutter_application_1/detail_screen.dart';
+import 'package:flutter_application_1/index.dart';
+import 'package:flutter_application_1/profile.dart';
+
+import 'index_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -8,21 +12,27 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
+  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Ocean',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      supportedLocales: {const Locale('en', '')},
-      debugShowCheckedModeBanner: true,
-      initialRoute: '/home',
+      title: 'Flutter Demo',
+      theme: ThemeData(primarySwatch: Colors.blue,),
+      darkTheme: ThemeData(primarySwatch: Colors.grey),
+      color: Colors.amberAccent,
+      supportedLocales: {const Locale('en',' ')},
+      debugShowCheckedModeBanner: false,
+      
+      initialRoute: '/',
       routes: {
-        '/home':(context) => const ProfileScreen(),
-        '/notify':(context) => const ProfileScreen(),
-        '/profile':(context) =>  const ProfileScreen(),
-      },
+        '/': (context) => const indexScreen(),
+        '/detail': (context) => const DetailScreen(),
+        '/index':(context)=> const index(),
+        '/profile':(context) => const profile(),
+}
     );
   }
 }
+
+
+

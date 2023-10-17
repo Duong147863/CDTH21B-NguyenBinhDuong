@@ -1,44 +1,43 @@
+
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
+import 'detail_screen.dart';
+import 'index_screen.dart';
 
-class BottomNavigator extends StatelessWidget {
-  const BottomNavigator({super.key, required this.index});
-  final index;  
-
+class BottomNav extends StatelessWidget 
+{
+  const BottomNav({super.key, required this.idx});
+  final idx;
   @override
-  Widget build(BuildContext context) {
-    return BottomNavigationBar(
-      fixedColor: Colors.green,
-      items: const [
-        BottomNavigationBarItem(
-          icon: Icon(Icons.home),
-          label: "Trang chủ"
-        ),
-        BottomNavigationBarItem(
-          icon: Icon(Icons.notifications_none),
-          label: "Thông báo"
-        ),
-        BottomNavigationBarItem(
-          icon: Icon(Icons.account_circle),
-          label: "Cá nhân"
-        ),
-      ],
-      currentIndex: index,
-      onTap: (int indexOfItem){
-        if(indexOfItem == 0){
-          Navigator.pop(context, (route) => route.isCurrent);
-          Navigator.pushNamed(context, '/home');
+  Widget build(BuildContext context) 
+  {
+    return BottomNavigationBar
+    (
+         fixedColor: Colors.blueAccent,
+         items: const[
+           BottomNavigationBarItem(
+            label: "Trang chủ",
+            icon: Icon(Icons.home),
+           ),
+            BottomNavigationBarItem(
+            label: "Chi tiết",
+            icon: Icon(Icons.star,),
+           ),
+         ],
+        currentIndex: idx,
+        onTap: (int indexOfItem) 
+        { 
+        if (indexOfItem==0){
+          Navigator.popUntil(context, (route) => route.isFirst );
+          Navigator.pushNamed(context, '/');
         }
-        if(indexOfItem == 1){
-          Navigator.pop(context, (route) => route.isCurrent);
-          Navigator.pushNamed(context, '/notify');
+        else
+        {
+          Navigator.popUntil(context, (route) => route.isFirst );
+          Navigator.pushNamed(context, '/detail');
         }
-        if(indexOfItem == 2){
-          Navigator.pop(context, (route) => route.isCurrent);
-          Navigator.pushNamed(context, '/profile');
-        }
-      },
+        } 
     );
   }
 }
+
+    
